@@ -1,4 +1,4 @@
-<h1 align="center">Hello World!👋</h1>
+<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1>
 <h3>My name is Nicolas, I'm 22 years old, and I live in La Plata, Buenos Aires Argentina</h3>
 
 - 🎓 I am currently studying IT at UNLP.
