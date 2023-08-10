@@ -12,7 +12,7 @@
 
 <h2 align="left">💻University</h2>
 
-<div align="center">
+<div align="left">
     <a href="https://github.com/nicolasderosee/AyED">
       <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasderosee&repo=AyED&theme=dark" />
     </a>  
