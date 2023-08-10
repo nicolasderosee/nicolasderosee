@@ -1,7 +1,7 @@
 <h1 align="center">Hello World!👋</h1>
 <h3>My name is Nicolas, I'm 22 years old, and I live in La Plata, Buenos Aires Argentina</h3>
 
-- 🎓 I am currently studying IT.
+- 🎓 I am currently studying IT at UNLP.
 - 🌱 I complemented my background with Software Development studies.
 - 🔭 Currently working as Frontend Developer at AXLOT.
 
